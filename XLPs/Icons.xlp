@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_256"/>
+			<m_ObjectName text="ICON_LORDRAN_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_80"/>
+			<m_ObjectName text="ICON_LORDRAN_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_64"/>
+			<m_ObjectName text="ICON_LORDRAN_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_55"/>
+			<m_ObjectName text="ICON_LORDRAN_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_50"/>
+			<m_ObjectName text="ICON_LORDRAN_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_45"/>
+			<m_ObjectName text="ICON_LORDRAN_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_32"/>
+			<m_ObjectName text="ICON_LORDRAN_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GWYN_256"/>
+			<m_ObjectName text="ICON_GWYN_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GWYN_80"/>
+			<m_ObjectName text="ICON_GWYN_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GWYN_64"/>
+			<m_ObjectName text="ICON_GWYN_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GWYN_55"/>
+			<m_ObjectName text="ICON_GWYN_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GWYN_50"/>
+			<m_ObjectName text="ICON_GWYN_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GWYN_45"/>
+			<m_ObjectName text="ICON_GWYN_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_GWYN_32"/>
+			<m_ObjectName text="ICON_GWYN_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_200"/>
+			<m_ObjectName text="ICON_LORDRAN_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_22"/>
+			<m_ObjectName text="ICON_LORDRAN_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_30"/>
+			<m_ObjectName text="ICON_LORDRAN_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_36"/>
+			<m_ObjectName text="ICON_LORDRAN_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_44"/>
+			<m_ObjectName text="ICON_LORDRAN_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LORDRAN_48"/>
+			<m_ObjectName text="ICON_LORDRAN_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_HOLLOW_22"/>
+			<m_ObjectName text="ICON_HOLLOW_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_HOLLOW_256"/>
+			<m_ObjectName text="ICON_HOLLOW_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_HOLLOW_32"/>
+			<m_ObjectName text="ICON_HOLLOW_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_HOLLOW_38"/>
+			<m_ObjectName text="ICON_HOLLOW_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_HOLLOW_50"/>
+			<m_ObjectName text="ICON_HOLLOW_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_HOLLOW_80"/>
+			<m_ObjectName text="ICON_HOLLOW_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ARCHIVES_128"/>
+			<m_ObjectName text="ICON_ARCHIVES_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ARCHIVES_256"/>
+			<m_ObjectName text="ICON_ARCHIVES_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ARCHIVES_32"/>
+			<m_ObjectName text="ICON_ARCHIVES_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ARCHIVES_38"/>
+			<m_ObjectName text="ICON_ARCHIVES_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ARCHIVES_50"/>
+			<m_ObjectName text="ICON_ARCHIVES_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_ARCHIVES_80"/>
+			<m_ObjectName text="ICON_ARCHIVES_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FIRELINK_128"/>
+			<m_ObjectName text="ICON_FIRELINK_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FIRELINK_256"/>
+			<m_ObjectName text="ICON_FIRELINK_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FIRELINK_32"/>
+			<m_ObjectName text="ICON_FIRELINK_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FIRELINK_38"/>
+			<m_ObjectName text="ICON_FIRELINK_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FIRELINK_50"/>
+			<m_ObjectName text="ICON_FIRELINK_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FIRELINK_80"/>
+			<m_ObjectName text="ICON_FIRELINK_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_HOLLOW_200"/>
+			<m_ObjectName text="ICON_HOLLOW_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_HOLLOW_70"/>
+			<m_ObjectName text="ICON_HOLLOW_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_HOLLOW_95"/>
+			<m_ObjectName text="ICON_HOLLOW_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_200"/>
+			<m_ObjectName text="ICON_UNDEAD_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_256"/>
+			<m_ObjectName text="ICON_UNDEAD_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_38"/>
+			<m_ObjectName text="ICON_UNDEAD_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_50"/>
+			<m_ObjectName text="ICON_UNDEAD_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_70"/>
+			<m_ObjectName text="ICON_UNDEAD_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_95"/>
+			<m_ObjectName text="ICON_UNDEAD_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_HOLLOW_200"/>
+			<m_ObjectName text="ICON_UNDEAD_HOLLOW_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_HOLLOW_22"/>
+			<m_ObjectName text="ICON_UNDEAD_HOLLOW_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_HOLLOW_256"/>
+			<m_ObjectName text="ICON_UNDEAD_HOLLOW_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_HOLLOW_32"/>
+			<m_ObjectName text="ICON_UNDEAD_HOLLOW_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_HOLLOW_38"/>
+			<m_ObjectName text="ICON_UNDEAD_HOLLOW_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_HOLLOW_50"/>
+			<m_ObjectName text="ICON_UNDEAD_HOLLOW_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_HOLLOW_70"/>
+			<m_ObjectName text="ICON_UNDEAD_HOLLOW_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_HOLLOW_80"/>
+			<m_ObjectName text="ICON_UNDEAD_HOLLOW_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNDEAD_HOLLOW_95"/>
+			<m_ObjectName text="ICON_UNDEAD_HOLLOW_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_WEAPONS_256"/>
+			<m_ObjectName text="ICON_WEAPONS_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_WEAPONS_32"/>
+			<m_ObjectName text="ICON_WEAPONS_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_WEAPONS_38"/>
+			<m_ObjectName text="ICON_WEAPONS_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_WEAPONS_50"/>
+			<m_ObjectName text="ICON_WEAPONS_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_WEAPONS_70"/>
+			<m_ObjectName text="ICON_WEAPONS_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_WEAPONS_80"/>
+			<m_ObjectName text="ICON_WEAPONS_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RINGS_256"/>
+			<m_ObjectName text="ICON_RINGS_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RINGS_32"/>
+			<m_ObjectName text="ICON_RINGS_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RINGS_38"/>
+			<m_ObjectName text="ICON_RINGS_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RINGS_50"/>
+			<m_ObjectName text="ICON_RINGS_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RINGS_70"/>
+			<m_ObjectName text="ICON_RINGS_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_RINGS_80"/>
+			<m_ObjectName text="ICON_RINGS_80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

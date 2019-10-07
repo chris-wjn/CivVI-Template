@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<!--Leader Icons-->
+
+		<Row Name="ICON_ATLAS_LEADERNAME" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADERNAME_32.dds"/>
+		<Row Name="ICON_ATLAS_LEADERNAME" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADERNAME_45.dds"/>
+		<Row Name="ICON_ATLAS_LEADERNAME" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADERNAME_50.dds"/>
+		<Row Name="ICON_ATLAS_LEADERNAME" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADERNAME_55.dds"/>
+		<Row Name="ICON_ATLAS_LEADERNAME" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADERNAME_64.dds"/>
+		<Row Name="ICON_ATLAS_LEADERNAME" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADERNAME_80.dds"/>
+		<Row Name="ICON_ATLAS_LEADERNAME" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_LEADERNAME_256.dds"/>
+
+		<!--Civ Icons-->
+
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="22"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_22.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="30"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_30.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_32.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="36"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_36.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="44"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_44.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_45.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="48"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_48.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_50.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_55.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_64.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_80.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_200.dds"/>
+		<Row Name="ICON_ATLAS_CIVNAME" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIVNAME_256.dds"/>
+
+		<!--Unit Icons-->
+
+		<Row Name="ICON_ATLAS_UNITNAME" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNITNAME_256.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNITNAME_80.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNITNAME_50.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNITNAME_38.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNITNAME_32.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNITNAME_22.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNITNAME_128.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNITNAME_200.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME_FOW" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNITNAME_256.dds"/>
+
+		<Row Name="ICON_ATLAS_UNITNAME_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PORTRAIT_256.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PORTRAIT_200.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME_PORTRAIT" IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PORTRAIT_95.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PORTRAIT_70.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PORTRAIT_50.dds"/>
+		<Row Name="ICON_ATLAS_UNITNAME_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PORTRAIT_38.dds"/>
+
+		<!--District Icons-->
+
+		<Row Name="ICON_ATLAS_DISTRICTNAME" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICTNAME_32.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICTNAME" IconSize="38"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICTNAME_38.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICTNAME" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICTNAME_50.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICTNAME" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICTNAME_80.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICTNAME" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICTNAME_128.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICTNAME" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICTNAME_256.dds"/>
+		<Row Name="ICON_ATLAS_DISTRICTNAME_FOW" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_DISTRICTNAME_256.dds"/>
+
+		<!--Project Icons-->
+
+		<Row Name="ICON_ATLAS_PROJECTNAME" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PROJECTNAME_256.dds"/>
+		<Row Name="ICON_ATLAS_PROJECTNAME" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PROJECTNAME_80.dds"/>
+		<Row Name="ICON_ATLAS_PROJECTNAME" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PROJECTNAME_70.dds"/>
+		<Row Name="ICON_ATLAS_PROJECTNAME" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PROJECTNAME_50.dds"/>
+		<Row Name="ICON_ATLAS_PROJECTNAME" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PROJECTNAME_38.dds"/>
+		<Row Name="ICON_ATLAS_PROJECTNAME" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_PROJECTNAME_32.dds"/>
+		
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<!--Leader Icons-->
+		<Row Name="ICON_CWJN_LEADER_LEADERNAME" Atlas="ICON_ATLAS_LEADERNAME" Index="0"/>
+
+		<!--Civilization Icons-->
+		<Row Name="ICON_CWJN_CIV_CIVNAME" Atlas="ICON_ATLAS_CIVNAME" Index="0"/>
+
+		<!--Unit Icons-->
+		<Row Name="ICON_CWJN_UNIT_UNITNAME" Atlas="ICON_ATLAS_UNITNAME" Index="0"/>
+		<Row Name="ICON_CWJN_UNIT_UNITNAME_PORTRAIT" Atlas="ICON_ATLAS_UNITNAME_PORTRAIT" Index="0"/>
+
+		<!--District Icons-->
+		<Row Name="ICON_CWJN_DISTRICT_DISTRICTNAME" Atlas="ICON_ATLAS_DISTRICTNAME" Index="0"/>
+
+		<!--Project Icons-->
+		<Row Name="ICON_CWJN_PROJECT_PROJECTNAME" Atlas="ICON_ATLAS_PROJECTNAME" Index="0"/>
+			 
+	</IconDefinitions>
+</GameData>
