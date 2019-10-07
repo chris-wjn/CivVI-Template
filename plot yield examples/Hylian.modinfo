@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e8eebec3-fab4-4a9f-9bba-4266b62a99e2" version="0210">
+	<Properties>
+		<Name>LOC_MOD_TITLE</Name>
+		<Teaser>LOC_MOD_TEASER</Teaser>
+		<Description>LOC_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS</Authors>
+		<SpecialThanks>LOC_MOD_SPECIAL_THANKS</SpecialThanks>
+	</Properties>
+	<Components>
+		<ImportFiles id="HYLIAN_IMPORT">
+			<Items>
+				<File>Art/dom_blank.dds</File>
+				<File>Art/Zelda_Loading_Background.dds</File>
+				<File>Art/Zelda_Diplomacy_Background.dds</File>
+			</Items>
+		</ImportFiles>
+		<UserInterface>
+			<Properties>
+				<Context>InGame</Context>
+			</Properties>
+			<Items>
+				<File>InGame/Hylian_InGame.lua</File>
+				<File>InGame/Hylian_InGame.xml</File>
+			</Items>
+		</UserInterface>
+		<GameplayScripts>
+			<Properties>
+				<Context>GameplayScripts</Context>
+			</Properties>
+			<Items>
+				<File>GameplayScripts/Hylian_GameplayScripts.lua</File>
+				<File>GameplayScripts/Hylian_GameplayScripts.xml</File>
+			</Items>
+		</GameplayScripts>
+		<UpdateDatabase id="HYLIAN_COMPONENT">
+			<Items>
+		                <File>Data/Hylian_LoadingInfo.xml</File>
+				<File>Data/Hylian_DiplomacyInfo.xml</File>
+				<File>Data/Hylian_Improvements.xml</File>
+				<File>Data/Hylian_Buildings.xml</File>
+				<File>Data/Hylian_Civilizations.xml</File>
+				<File>Data/Hylian_Colours.xml</File>
+				<File>Data/Hylian_Gossip.xml</File>
+				<File>Data/Hylian_Leaders.xml</File>
+				<File>Data/Hylian_PlayerColours.xml</File>
+				<File>Data/Hylian_Units.xml</File>
+			</Items>
+		</UpdateDatabase>
+		<LocalizedText id="HYLIAN_TEXT">
+			<Items>
+				<File>Data/Hylian_Text.xml</File>
+				<File>Data/Hylian_GameplayText.xml</File>
+			</Items>
+		</LocalizedText>
+
+		<ModArt id="HYLIAN_MODART">
+            <Items>
+                <File>Hylian.dep</File>
+            </Items>
+        </ModArt>
+
+        <ImportFiles id="HYLIAN_ICON_FILES">
+			<Items>
+			   	 <!-- Loading art -->
+                <File>Art/Zelda_Diplomacy_Background.dds</File>
+                <File>Art/Zelda_Loading_Background.dds</File>
+                <File>Art/dom_blank.dds</File>
+
+				<!-- Civ Icons -->
+				<File>Art/Icons/Hylian_Atlas256.dds</File>
+				<File>Art/Icons/Hylian_Atlas80.dds</File>
+				<File>Art/Icons/Hylian_Atlas64.dds</File>
+				<File>Art/Icons/Hylian_Atlas50.dds</File>
+				<File>Art/Icons/Hylian_Atlas48.dds</File>
+				<File>Art/Icons/Hylian_Atlas45.dds</File>
+				<File>Art/Icons/Hylian_Atlas36.dds</File>
+
+				<!-- UnitFlag Icons -->
+				<File>Art/Icons/HeroOfTime22.dds</File>
+				<File>Art/Icons/HeroOfTime32.dds</File>
+				<File>Art/Icons/HeroOfTime50.dds</File>
+				<File>Art/Icons/HeroOfTime80.dds</File>
+
+				<!-- Unit Icons -->
+				<File>Art/Icons/Link32.dds</File>
+				<File>Art/Icons/Link38.dds</File>
+				<File>Art/Icons/Link50.dds</File>
+				<File>Art/Icons/Link80.dds</File>
+				<File>Art/Icons/Link256.dds</File>
+
+				<!-- Improvement Icons -->
+				<File>Art/Icons/Fairy_Fountain32.dds</File>
+				<File>Art/Icons/Fairy_Fountain38.dds</File>
+				<File>Art/Icons/Fairy_Fountain50.dds</File>
+				<File>Art/Icons/Fairy_Fountain80.dds</File>
+				<File>Art/Icons/Fairy_Fountain128.dds</File>
+				<File>Art/Icons/Fairy_Fountain256.dds</File>
+
+				<!-- Building Icons -->
+				<File>Art/Icons/Temple_Of_Time32.dds</File>
+				<File>Art/Icons/Temple_Of_Time38.dds</File>
+				<File>Art/Icons/Temple_Of_Time50.dds</File>
+				<File>Art/Icons/Temple_Of_Time80.dds</File>
+				<File>Art/Icons/Temple_Of_Time128.dds</File>
+				<File>Art/Icons/Temple_Of_Time256.dds</File>
+
+				<!-- Leader Icons -->
+				<File>Art/Icons/Zelda256.dds</File>
+				<File>Art/Icons/Zelda80.dds</File>
+				<File>Art/Icons/Zelda64.dds</File>
+				<File>Art/Icons/Zelda55.dds</File>
+				<File>Art/Icons/Zelda45.dds</File>
+			</Items>
+		</ImportFiles>
+		<Icons id="HYLIAN_ICONS">
+            <Items>
+                <File>Data/Icons/Hylian_Icons_Improvements.xml</File>
+                <File>Data/Icons/Hylian_Icons_Buildings.xml</File>
+				<File>Data/Icons/Hylian_Icons_Civilizations.xml</File>
+				<File>Data/Icons/Hylian_Icons_Leaders.xml</File>
+				<File>Data/Icons/Hylian_Icons_UnitFlags.xml</File>
+				<File>Data/Icons/Hylian_Icons_UnitPortraits.xml</File>
+				<File>Data/Icons/Hylian_Icons_Units.xml</File>
+            </Items>
+        </Icons>
+	</Components>
+	<Settings>
+		<Custom id="HYLIAN_SETTING">
+			<Items>
+				<File>Data/Hylian_Config.xml</File>
+			</Items>
+		</Custom>
+		<LocalizedText id="HYLIAN_SETTING_TEXT">
+			<Items>
+				<File>Data/Hylian_ConfigText.xml</File>
+			</Items>
+		</LocalizedText>
+	</Settings>
+	<LocalizedText>
+		<Text id="LOC_MOD_TITLE">
+			<en_US>The Kingdom of Hyrule 0.2.1.0</en_US>
+		</Text>
+		<Text id="LOC_MOD_TEASER">
+			<en_US>Play as Princess Zelda and take command of the Kingdom of Hyrule</en_US>
+		</Text>
+		<Text id="LOC_MOD_DESCRIPTION">
+			<en_US>A religious and domination civilization based around building up faith and defence of the homeland.</en_US>
+		</Text>
+		<Text id="LOC_MOD_AUTHORS">
+			<en_US>decster584</en_US>
+		</Text>
+		<Text id="LOC_MOD_SPECIAL_THANKS">
+		    slicelonger for unknowingly teaching me how to get started, Gedemon for basically every Civ6 modding resource under the sun
+		</Text>
+	</LocalizedText>
+	<Files>
+		<File>Hylian.dep</File>
+		<File>Data/Hylian_Config.xml</File>
+		<File>Data/Hylian_ConfigText.xml</File>
+		<File>Data/Hylian_Civilizations.xml</File>
+		<File>Data/Hylian_Colours.xml</File>
+		<File>Data/Hylian_GameplayText.xml</File>
+		<File>Data/Hylian_Gossip.xml</File>
+		<File>Data/Hylian_Improvements.xml</File>
+		<File>Data/Hylian_Buildings.xml</File>
+		<File>Data/Hylian_Leaders.xml</File>
+		<File>Data/Hylian_PlayerColours.xml</File>
+		<File>Data/Hylian_Text.xml</File>
+		<File>Data/Hylian_Units.xml</File>
+		<File>Data/Hylian_LoadingInfo.xml</File>
+		<File>Data/Hylian_DiplomacyInfo.xml</File>
+
+        <File>InGame/Hylian_InGame.lua</File>
+        <File>InGame/Hylain_InGame.xml</File>
+		<File>GameplayScripts/Hylian_GameplayScripts.lua</File>
+		<File>GameplayScripts/Hylain_GameplayScripts.xml</File>
+
+		<File>Data/Icons/Hylian_Icons_Leaders.xml</File>
+		<File>Data/Icons/Hylian_Icons_Improvements.xml</File>
+		<File>Data/Icons/Hylian_Icons_Buildings.xml</File>
+		<File>Data/Icons/Hylian_Icons_Civilizations.xml</File>
+		<File>Data/Icons/Hylian_Icons_Units.xml</File>
+		<File>Data/Icons/Hylian_Icons_UnitFlags.xml</File>
+		<File>Data/Icons/Hylian_Icons_UnitPortraits.xml</File>
+
+		<File>Art/Icons/Hylian_Atlas256.dds</File>
+		<File>Art/Icons/Hylian_Atlas80.dds</File>
+		<File>Art/Icons/Hylian_Atlas64.dds</File>
+		<File>Art/Icons/Hylian_Atlas50.dds</File>
+		<File>Art/Icons/Hylian_Atlas48.dds</File>
+		<File>Art/Icons/Hylian_Atlas45.dds</File>
+		<File>Art/Icons/Hylian_Atlas36.dds</File>
+		<File>Art/Icons/HeroOfTime22.dds</File>
+		<File>Art/Icons/HeroOfTime32.dds</File>
+		<File>Art/Icons/HeroOfTime50.dds</File>
+		<File>Art/Icons/HeroOfTime80.dds</File>
+		<File>Art/Icons/Link32.dds</File>
+		<File>Art/Icons/Link38.dds</File>
+		<File>Art/Icons/Link50.dds</File>
+		<File>Art/Icons/Link80.dds</File>
+		<File>Art/Icons/Link256.dds</File>
+		<File>Art/Icons/Fairy_Fountain32.dds</File>
+		<File>Art/Icons/Fairy_Fountain38.dds</File>
+		<File>Art/Icons/Fairy_Fountain50.dds</File>
+		<File>Art/Icons/Fairy_Fountain80.dds</File>
+		<File>Art/Icons/Fairy_Fountain128.dds</File>
+		<File>Art/Icons/Fairy_Fountain256.dds</File>
+		<File>Art/Icons/Temple_Of_Time32.dds</File>
+		<File>Art/Icons/Temple_Of_Time38.dds</File>
+		<File>Art/Icons/Temple_Of_Time50.dds</File>
+		<File>Art/Icons/Temple_Of_Time80.dds</File>
+		<File>Art/Icons/Temple_Of_Time128.dds</File>
+		<File>Art/Icons/Temple_Of_Time256.dds</File>
+		<File>Art/Icons/Zelda256.dds</File>
+		<File>Art/Icons/Zelda80.dds</File>
+		<File>Art/Icons/Zelda64.dds</File>
+		<File>Art/Icons/Zelda55.dds</File>
+		<File>Art/Icons/Zelda45.dds</File>
+
+		<File>Art/Zelda_Diplomacy_Background.dds</File>
+		<File>Art/Zelda_Loading_Background.dds</File>
+		<File>Art/dom_blank.dds</File>
+	</Files>
+</Mod>
